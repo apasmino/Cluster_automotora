@@ -1,4 +1,3 @@
-Análisis exploratorio inicial
-----------------
+Cluster de clientes clientes ---------------- 
 
-Análisis inicial del dataset de ventas
+Proyecto segmentación de clientes en SKC
